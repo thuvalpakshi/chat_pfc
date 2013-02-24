@@ -1,0 +1,1 @@
+A chat room plugin for ELGG made of php fre chat
